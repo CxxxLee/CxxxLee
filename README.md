@@ -18,7 +18,7 @@ Here are some of the projects I’ve been working on — each helping me sharpen
 
 ## [🎾 E-Commerice Tennis Store](https://github.com/CxxxLee/Tennis-Website)- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=222)
 
-- A E-Commerce storefront I’m actively developing — focused on clean design, responsive layout, and intuitive product browsing.
+- An E-Commerce storefront I’m actively developing — focused on clean design, responsive layout, and intuitive product browsing.
 
 - Next step: integrating product API & backend
 
