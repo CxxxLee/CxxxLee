@@ -22,7 +22,7 @@ Here are some of the projects I’ve been working on — each helping me sharpen
 
 - Next step: integrating product API & backend
 
-- (🌐 Live demo coming soon)
+- 🌐(Live Demo coming soon)
 
 ## [💣 Minesweeper (Web Game)](https://github.com/CxxxLee/MineSweeper-Game)- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FF6C37?style=for-the-badge&logoColor=white)
 
