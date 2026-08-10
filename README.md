@@ -1,65 +1,128 @@
+# 👋 Hi, I'm Chenchimin Lee
 
-🌟 Software Engineer | Front End Developer | React-Focused
+### 📊 Data Engineer | Python • SQL • PySpark • AWS • Snowflake
+
+I'm a Computer Science graduate focused on **Data Engineering**, with hands-on experience building data pipelines, transforming datasets, and working with cloud-based data platforms.
+
+My recent work has involved building ETL/ELT workflows using **Python, SQL, PySpark, AWS, Snowflake, Apache Airflow, Kafka**, with an emphasis on transforming raw data into reliable, analytics-ready datasets.
+
+Outside of coding, you'll usually find me on the tennis court 🎾 or at the gym 🏋️‍♂️.
+
+## 🛠️ Data Engineering Skills
+
+**Languages**
+
+* Python
+* SQL
+* C++
+
+**Data Engineering**
+
+* PySpark
+* ETL / ELT
+* Apache Airflow
+* Apache Kafka
+* Apache Iceberg
+* dbt
+* Data Transformation
+* Data Validation
+* Data Warehousing
+
+**Cloud & Data Platforms**
+
+* AWS S3
+* AWS EMR
+* AWS Glue
+* Snowflake
+* MySQL
+* BigQuery
+
+**Analytics & Tools**
+
+* Power BI
+* Pandas
+* NumPy
+* Matplotlib
+* Git
+* VS Code
+
+## 🚀 Featured Projects
+
+### ☁️ Retail Data Engineering Pipeline
+
+Built an end-to-end cloud data pipeline that processes raw retail customer, product, and order data into analytics-ready datasets.
+
+**Architecture:**
+
+`CSV → AWS S3 → PySpark / EMR → Apache Iceberg → AWS Glue → Snowflake`
+
+**Highlights:**
+
+* Cleaned and validated raw datasets using PySpark.
+* Implemented transformations for customer, product, and order data.
+* Joined curated datasets to create an analytical sales dataset.
+* Created aggregations for revenue, profit, product performance, and payment trends.
+* Stored curated data as Apache Iceberg tables using AWS Glue Catalog.
+* Integrated Iceberg tables with Snowflake for downstream analytics.
+
+**Technologies:** Python • PySpark • AWS S3 • EMR • Glue • Apache Iceberg • Snowflake
+
 ---
-🤝 Let's Connect Here:
-<br>[![Email](https://img.shields.io/badge/Email-333333?logo=gmail&logoColor=white)](mailto:chenchiminlee@gmail.com): chenchiminlee@gmail.com
-<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/chenchimin-lee-5b26342a1?trk=people-guest_people_search-card)): https://www.linkedin.com/in/chenchimin-lee
 
-## 👨‍💻 About Me
-👋 Hi there! Thanks for visiting my GitHub.
-I’m originally from Fresno, California, now based in Minnesota.
-I’m passionate about creating beautiful, responsive, and interactive web apps that deliver great user experiences and meet client goals. When I'm not
-coding, you'll find me on the tennis courts double faulting 🎾, or in the gym skipping leg day 🏋️‍♂️. 
+### 🏥 Healthcare Analytics Pipeline
 
-🚀 Featured Projects
----
-Here are some of the projects I’ve been working on — each helping me sharpen my skills and explore different parts of web development.
+Contributed to a team project building a data pipeline for healthcare analytics using batch and streaming technologies.
 
-## [🎾 E-Commerice Tennis Store](https://github.com/CxxxLee/Tennis-Website)- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=222)
+**Architecture:**
 
-- An E-Commerce storefront I’m actively developing — focused on clean design, responsive layout, and intuitive product browsing.
+`Web Application → Kafka → AWS S3 → Airflow → PySpark / EMR → Snowflake → Power BI`
 
-- Next step: integrating product API & backend
+**Highlights:**
 
-- 🌐(Live Demo coming soon)
+* Worked with analytics-ready healthcare datasets in Snowflake.
+* Built an executive Power BI dashboard focused on KPIs, revenue, and business trends.
+* Worked with a pipeline architecture incorporating Kafka, Airflow, AWS, PySpark, and Snowflake.
+* Analyzed the relationship between warehouse data models and downstream BI requirements.
 
-## [💣 Minesweeper (Web Game)](https://github.com/CxxxLee/MineSweeper-Game)- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FF6C37?style=for-the-badge&logoColor=white)
+**Technologies:** Kafka • Airflow • AWS • PySpark • Snowflake • Power BI
 
-
-
-  - A modern web version of the classic Minesweeper game (Kingdom Hearts Themed). Allows sign-up/login for saved games and leaderboards. (Try to beat me!) 
-
-  - 🌐(Live Demo!): [cxxxlee-minesweeper.wuaze.com](http://cxxxlee-minesweeper.wuaze.com/?i=1)
-
-## [🏴‍☠️ One-Piece-Database](https://github.com/CxxxLee/One-Piece-Database)-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FF6C37?style=for-the-badge&logoColor=white)
-
-  - A One Piece-themed web database that lets fans browse characters, crews, and devil fruits like a true pirate archivist.
-
-🧠 Currently Learning
----
-  - React fundamentals — components, props, and state
-
-  - Developing a deeper understanding of JavaScript
-
-  - Responsive design (Flexbox, Grid, media queries)
-
-  - Modern UI styling with CSS Modules 
-
-🔧 Tech Stack
 ---
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=222)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FF6C37?style=for-the-badge&logoColor=white)
+### 🏴‍☠️ Python + MySQL CLI Application
 
-📊 GitHub Stats
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CxxxLee&layout=compact&langs_count=10&hide_border=true&exclude_repo=167-Project,167-NoteBooks,166-Project,166-test&hide=jupyter%20notebook&theme=tokyonight)
+Developed a command-line application using object-oriented Python and MySQL for persistent data storage.
 
+**Highlights:**
+
+* Designed Python classes using object-oriented programming.
+* Connected Python to MySQL for database operations.
+* Used SQL to store and retrieve application data.
+* Used Pandas, NumPy, and Matplotlib for data manipulation and analysis.
+
+**Technologies:** Python • MySQL • SQL • Pandas • NumPy • Matplotlib
+
+## 🌐 Additional Software Projects
+
+Before focusing on data engineering, I also built several full-stack and front-end projects.
+
+* 🎾 **E-Commerce Tennis Store** — responsive e-commerce storefront.
+* 💣 **Minesweeper** — web-based game featuring accounts, saved games, and leaderboards.
+* 🏴‍☠️ **One Piece Database** — web application for browsing One Piece characters, crews, and Devil Fruits.
+
+These projects helped build my foundation in programming, databases, web development, and software engineering.
+
+## 📚 Currently Learning
+
+I'm currently strengthening my skills in:
+
+* Python problem solving and data structures
+* Advanced SQL
+* PySpark transformations and optimization
+* Data pipeline design
+* Cloud data engineering with AWS
+* Data modeling and warehouse architecture
+
+## 🤝 Connect With Me
+
+**LinkedIn:** www.linkedin.com/in/chen-lee4165
+**Email:** [chenchiminlee@gmail.com](mailto:chenchiminlee@gmail.com)
