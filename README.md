@@ -69,25 +69,6 @@ Built an end-to-end cloud data pipeline that processes raw retail customer, prod
 
 ---
 
-### 🏥 Healthcare Analytics Pipeline
-
-Contributed to a team project building a data pipeline for healthcare analytics using batch and streaming technologies.
-
-**Architecture:**
-
-`Web Application → Kafka → AWS S3 → Airflow → PySpark / EMR → Snowflake → Power BI`
-
-**Highlights:**
-
-* Worked with analytics-ready healthcare datasets in Snowflake.
-* Built an executive Power BI dashboard focused on KPIs, revenue, and business trends.
-* Worked with a pipeline architecture incorporating Kafka, Airflow, AWS, PySpark, and Snowflake.
-* Analyzed the relationship between warehouse data models and downstream BI requirements.
-
-**Technologies:** Kafka • Airflow • AWS • PySpark • Snowflake • Power BI
-
----
-
 ### 🏴‍☠️ Python + MySQL CLI Application
 
 Developed a command-line application using object-oriented Python and MySQL for persistent data storage.
