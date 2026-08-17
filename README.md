@@ -48,7 +48,7 @@ Outside of coding, you'll usually find me on the tennis court 🎾 or at the gym
 
 ## 🚀 Featured Projects
 
-### ☁️ Retail Data Engineering Pipeline
+### ☁️ [Retail Data Engineering Pipeline](https://github.com/CxxxLee/Retail-Data-Pipeline/tree/main)
 
 Built an end-to-end cloud data pipeline that processes raw retail customer, product, and order data into analytics-ready datasets.
 
