@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chenchimin Lee
 
-### 📊 Aspiring Data Engineer | Python • SQL • PySpark • AWS • Snowflake
+### 📊 Aspiring Data Analyst/Engineer | Python • SQL • PySpark • AWS • Snowflake
 
 I'm a Computer Science graduate focused on **Data Engineering**, with hands-on experience building data pipelines, transforming datasets, and working with cloud-based data platforms.
 
